@@ -1,0 +1,28 @@
+
+Status code is: 201
+Post was successful...
+{
+    "id": "005056BB-0B24-0ed3-0000-880468478876",
+    "links": {
+        "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468478876"
+    },
+    "metadata": {
+        "domain": {
+            "id": "e276abec-e0f2-11e3-8169-6d9ed49b625f",
+            "name": "Global",
+            "type": "Domain"
+        },
+        "inherit": false
+    },
+    "name": "AccessPolicy-Shawki-test-1",
+    "rules": {
+        "links": {
+            "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468478876/accessrules"
+        },
+        "refType": "list",
+        "type": "AccessRule"
+    },
+    "type": "AccessPolicy"
+}
+
+Process finished with exit code 0

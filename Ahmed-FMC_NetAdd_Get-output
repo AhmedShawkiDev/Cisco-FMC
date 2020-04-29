@@ -1,0 +1,254 @@
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\python.exe "C:/Security/Cisco DevNet/Ahmed/Auto-Codes/Cisco-FMC/Ahmed-FMC_NetAdd_Get.py"
+ What is username: Ahmed_Hewe
+ What is Password: RUzrttEu
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+GET NetAddr successful. Response data ...... 
+{
+    "items": [
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468464033",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468464033"
+            },
+            "name": "1.1.10.145",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468464119",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468464119"
+            },
+            "name": "1.13.10.12",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468464101",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468464101"
+            },
+            "name": "1.13.10.121",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468464051",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468464051"
+            },
+            "name": "1.13.10.140",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468464015",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468464015"
+            },
+            "name": "1.13.10.145",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468464235",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468464235"
+            },
+            "name": "1.2.1.1",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468414432",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networks/005056BB-0B24-0ed3-0000-880468414432"
+            },
+            "name": "10.0.0.0_8",
+            "type": "Network"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468396271",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networks/005056BB-0B24-0ed3-0000-880468396271"
+            },
+            "name": "10.1.1.0_24",
+            "type": "Network"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468438272",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468438272"
+            },
+            "name": "10.1.1.71",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468438254",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468438254"
+            },
+            "name": "10.1.1.72",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468396289",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468396289"
+            },
+            "name": "10.1.2.0_24",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468438290",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468438290"
+            },
+            "name": "10.1.2.71",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468438236",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468438236"
+            },
+            "name": "10.1.2.72",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468396361",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networks/005056BB-0B24-0ed3-0000-880468396361"
+            },
+            "name": "10.1.4.0_24",
+            "type": "Network"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468347297",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networks/005056BB-0B24-0ed3-0000-880468347297"
+            },
+            "name": "10.1.4.0_24_A",
+            "type": "Network"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468340985",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468340985"
+            },
+            "name": "10.1.4.141",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468341003",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468341003"
+            },
+            "name": "10.1.4.142",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468361864",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468361864"
+            },
+            "name": "10.1.5.141",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468361846",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468361846"
+            },
+            "name": "10.1.5.142",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468331793",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468331793"
+            },
+            "name": "10.10.0.1_testABCABC",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468463881",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468463881"
+            },
+            "name": "10.10.10.10",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468463899",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468463899"
+            },
+            "name": "10.10.10.145",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468463925",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468463925"
+            },
+            "name": "10.10.10.15",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468463943",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468463943"
+            },
+            "name": "10.10.10.155",
+            "type": "Host"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468338766",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/hosts/005056BB-0B24-0ed3-0000-880468338766"
+            },
+            "name": "10.10.2.1_testB",
+            "type": "Host"
+        }
+    ],
+    "links": {
+        "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses?offset=0&limit=25"
+    },
+    "paging": {
+        "count": 3001,
+        "limit": 25,
+        "next": [
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses?offset=25&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses?offset=50&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses?offset=75&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses?offset=100&limit=25"
+        ],
+        "offset": 0,
+        "pages": 121
+    }
+}
+
+Process finished with exit code 0

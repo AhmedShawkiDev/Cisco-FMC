@@ -1,0 +1,23 @@
+GET successful. Response data --> 
+{
+    "items": [
+        {
+            "geoVersion": "None",
+            "serverVersion": "6.3.0 (build 84)",
+            "sruVersion": "2018-08-23-001-vrt",
+            "type": "ServerVersion",
+            "vdbVersion": "build 299 ( 2018-06-19 19:07:33 )"
+        }
+    ],
+    "links": {
+        "self": "https://fmcrestapisandbox.cisco.com/api/fmc_platform/v1/info/serverversion?offset=0&limit=1"
+    },
+    "paging": {
+        "count": 1,
+        "limit": 1,
+        "offset": 0,
+        "pages": 1
+    }
+}
+
+Process finished with exit code 0

@@ -1,0 +1,252 @@
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\python.exe "C:/Security/Cisco DevNet/Ahmed/Auto-Codes/Cisco-FMC/FMC-Interface-zone-Get.py"
+ What is username: Ahmed_Hewe
+ What is Password: qad9N3jP
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+GET successful. Response data --> 
+{
+    "items": [
+        {
+            "id": "ac270386-648a-11e9-b96c-a85acdfd12d7",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/ac270386-648a-11e9-b96c-a85acdfd12d7"
+            },
+            "name": "outside1",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "39d32f04-648e-11e9-b96c-a85acdfd12d7",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/39d32f04-648e-11e9-b96c-a85acdfd12d7"
+            },
+            "name": "outside2",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "dc48b7ee-136d-11e9-bb60-c56f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/dc48b7ee-136d-11e9-bb60-c56f95f4df3d"
+            },
+            "name": "SecurityZoneObject5",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "f3a5e984-136d-11e9-bb60-c56f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/f3a5e984-136d-11e9-bb60-c56f95f4df3d"
+            },
+            "name": "SecurityZoneObject5oooo",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "29c35646-136e-11e9-bb60-c56f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/29c35646-136e-11e9-bb60-c56f95f4df3d"
+            },
+            "name": "dfdf",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "e6ec8192-136f-11e9-85e3-c36f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfacegroups/e6ec8192-136f-11e9-85e3-c36f95f4df3d"
+            },
+            "name": "dsfd",
+            "type": "InterfaceGroup"
+        },
+        {
+            "id": "77ffb644-1420-11e9-b3ac-e6dfdbb351f6",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/77ffb644-1420-11e9-b3ac-e6dfdbb351f6"
+            },
+            "name": "avodaq_secuirty_zone",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "16961a26-1379-11e9-ab72-c46f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/16961a26-1379-11e9-ab72-c46f95f4df3d"
+            },
+            "name": "656bghg",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "e0354c06-1402-11e9-85e3-c36f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/e0354c06-1402-11e9-85e3-c36f95f4df3d"
+            },
+            "name": "a233243",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "6fefd13c-14d9-11e9-ab72-c46f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/6fefd13c-14d9-11e9-ab72-c46f95f4df3d"
+            },
+            "name": "security_111",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "9d720abc-14d9-11e9-bb60-c56f95f4df3d",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfacegroups/9d720abc-14d9-11e9-bb60-c56f95f4df3d"
+            },
+            "name": "interface_group111",
+            "type": "InterfaceGroup"
+        },
+        {
+            "id": "f2302de2-23c3-11e9-8047-ef3db50da465",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/f2302de2-23c3-11e9-8047-ef3db50da465"
+            },
+            "name": "outside-zone",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "30b7717e-23c4-11e9-8047-ef3db50da465",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/30b7717e-23c4-11e9-8047-ef3db50da465"
+            },
+            "name": "inside-zone",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "52fd170c-23c4-11e9-8047-ef3db50da465",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/52fd170c-23c4-11e9-8047-ef3db50da465"
+            },
+            "name": "dmz-zone",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "815b81e6-23c5-11e9-8047-ef3db50da465",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/815b81e6-23c5-11e9-8047-ef3db50da465"
+            },
+            "name": "inline-a-zone",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "8deb643a-23c5-11e9-8047-ef3db50da465",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/8deb643a-23c5-11e9-8047-ef3db50da465"
+            },
+            "name": "inline-b-zone",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "805d9b34-33f7-11e9-b44b-2324ffccb8e1",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/805d9b34-33f7-11e9-b44b-2324ffccb8e1"
+            },
+            "name": "CPN_Managed",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "9f0dd53a-33f7-11e9-b44b-2324ffccb8e1",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/9f0dd53a-33f7-11e9-b44b-2324ffccb8e1"
+            },
+            "name": "CPN_Unmanaged",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "b9c8ea7c-33f7-11e9-b44b-2324ffccb8e1",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/b9c8ea7c-33f7-11e9-b44b-2324ffccb8e1"
+            },
+            "name": "BON_Trusted",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "4afdbce2-34ee-11e9-9afa-2624ffccb8e1",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/4afdbce2-34ee-11e9-9afa-2624ffccb8e1"
+            },
+            "name": "_sz1",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "bc2dd166-34f0-11e9-9199-2424ffccb8e1",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/bc2dd166-34f0-11e9-9199-2424ffccb8e1"
+            },
+            "name": "_sz3",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "ce62eeb4-3f33-11e9-9d4a-2524ffccb8e1",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/ce62eeb4-3f33-11e9-9d4a-2524ffccb8e1"
+            },
+            "name": "zone_GV7_omp-o2",
+            "type": "SecurityZone"
+        },
+        {
+            "id": "4e45357a-6fb3-11e8-9d62-4e6178cfb4b2",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfacegroups/4e45357a-6fb3-11e8-9d62-4e6178cfb4b2"
+            },
+            "name": "InterfaceGroupObject_Mumu_In",
+            "type": "InterfaceGroup"
+        },
+        {
+            "id": "4fbb306c-6fb3-11e8-9d62-4e6178cfb4b2",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfacegroups/4fbb306c-6fb3-11e8-9d62-4e6178cfb4b2"
+            },
+            "name": "InterfaceGroupObject_Mumu_Out",
+            "type": "InterfaceGroup"
+        },
+        {
+            "id": "1f6168ae-7608-11e8-8179-f665c068cda9",
+            "links": {
+                "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects",
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/securityzones/1f6168ae-7608-11e8-8179-f665c068cda9"
+            },
+            "name": "MC-INSIDE",
+            "type": "SecurityZone"
+        }
+    ],
+    "links": {
+        "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects?offset=0&limit=25"
+    },
+    "paging": {
+        "count": 51,
+        "limit": 25,
+        "next": [
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects?offset=25&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/interfaceobjects?offset=50&limit=1"
+        ],
+        "offset": 0,
+        "pages": 3
+    }
+}
+
+Process finished with exit code 0

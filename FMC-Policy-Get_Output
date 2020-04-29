@@ -1,0 +1,222 @@
+GET successful. Response data --> 
+{
+    "items": [
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468461468",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468461468"
+            },
+            "name": "000youpicestlateuf",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-871878384614",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-871878384614"
+            },
+            "name": "1",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468316718",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468316718"
+            },
+            "name": "_fmcapi_test_1576175289",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468449962",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468449962"
+            },
+            "name": "_fmcapi_test_1581794255",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468454205",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468454205"
+            },
+            "name": "_fmcapi_test_1581873908",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468454607",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468454607"
+            },
+            "name": "_fmcapi_test_1581877390",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468303352",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468303352"
+            },
+            "name": "AccePolicy-Test123",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468470980",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468470980"
+            },
+            "name": "Access-RC",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468448475",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468448475"
+            },
+            "name": "AccessPolicy-JD-test-1",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468448587",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468448587"
+            },
+            "name": "AccessPolicy-JD-test-2",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-867583394493",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-867583394493"
+            },
+            "name": "AccessPolicy-veer-test-1",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468458417",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468458417"
+            },
+            "name": "AccessPolicy-veer-test-1 UNWRAP",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-871878361667",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-871878361667"
+            },
+            "name": "AccessPolicy-veer-test-2",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-871878361768",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-871878361768"
+            },
+            "name": "AccessPolicy-veer-test-3",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-871878361869",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-871878361869"
+            },
+            "name": "AccessPolicy-veer-test-4",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468332414",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468332414"
+            },
+            "name": "AccessPolicy-veer-test-5",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468332516",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468332516"
+            },
+            "name": "AccessPolicy-veer-test-6",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-871878362019",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-871878362019"
+            },
+            "name": "AccessPolicy-veer-test-Postman",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-867583400843",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-867583400843"
+            },
+            "name": "AccessPolicy1",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468307107",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468307107"
+            },
+            "name": "AccessPolicy11111",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-871878378017",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-871878378017"
+            },
+            "name": "AccessPolicy1_Test",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-863288498942",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-863288498942"
+            },
+            "name": "AccessPolicy29",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468342350",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468342350"
+            },
+            "name": "AccessPolicy982",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468342216",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468342216"
+            },
+            "name": "AccessPolicy983",
+            "type": "AccessPolicy"
+        },
+        {
+            "id": "005056BB-0B24-0ed3-0000-880468338381",
+            "links": {
+                "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies/005056BB-0B24-0ed3-0000-880468338381"
+            },
+            "name": "AccessPolicy984",
+            "type": "AccessPolicy"
+        }
+    ],
+    "links": {
+        "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies?offset=0&limit=25"
+    },
+    "paging": {
+        "count": 154,
+        "limit": 25,
+        "next": [
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies?offset=25&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies?offset=50&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies?offset=75&limit=25",
+            "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/policy/accesspolicies?offset=100&limit=25"
+        ],
+        "offset": 0,
+        "pages": 7
+    }
+}
+
+Process finished with exit code 0

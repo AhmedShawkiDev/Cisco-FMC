@@ -1,0 +1,35 @@
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\python.exe "C:/Security/Cisco DevNet/Ahmed/Auto-Codes/Cisco-FMC/FMC-Create-Net-POST.py"
+ What is username: Ahmed_Hewe
+ What is Password: RUzrttEu
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+C:\Users\Ahmed\AppData\Local\Programs\Python\Python37-32\lib\site-packages\urllib3\connectionpool.py:847: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+Status code is: 201
+Post was successful...
+{
+    "description": "Test  Object",
+    "id": "005056BB-0B24-0ed3-0000-880468478839",
+    "links": {
+        "parent": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networkaddresses",
+        "self": "https://fmcrestapisandbox.cisco.com/api/fmc_config/v1/domain/e276abec-e0f2-11e3-8169-6d9ed49b625f/object/networks/005056BB-0B24-0ed3-0000-880468478839"
+    },
+    "metadata": {
+        "domain": {
+            "id": "e276abec-e0f2-11e3-8169-6d9ed49b625f",
+            "name": "Global"
+        },
+        "ipType": "V_4",
+        "lastUser": {
+            "name": "Ahmed_Hewe"
+        },
+        "parentType": "NetworkAddress",
+        "timestamp": 0
+    },
+    "name": "Test234",
+    "overridable": false,
+    "type": "Network",
+    "value": "20.20.20.0/24"
+}
+
+Process finished with exit code 0
